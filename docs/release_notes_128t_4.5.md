@@ -81,7 +81,7 @@ sidebar_label: 4.5
 
 ### Issues Fixed
 
-- **I95-18807** Removed a benign error displayed in journal due to imudp module loaded by rsyslog daemon.
+- **I95-18807** Removed a beginning error displayed in journal due to imudp module loaded by rsyslog daemon.
 
   _**Symptoms:**_ The following message can be seen in the journal:
   ```
